@@ -1,0 +1,6 @@
+CREATE TABLE "ASLOAN".TEST_TABLE_2
+(
+     GLIDER_WEIGHT    VARCHAR2(128),
+     PK             NUMBER(3, 3),
+     GLIDER_FK        NUMBER(3, 3)
+)
